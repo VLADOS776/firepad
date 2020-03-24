@@ -1,16 +1,12 @@
 {
-  "name": "@kurtukovvlad/firepad",
+  "name": "@easyhire/firepad",
   "description": "Collaborative text editing powered by Firebase",
-  "version": "1.5.9",
+  "version": "1.5.10",
   "author": "Firebase (https://firebase.google.com/)",
   "contributors": [
     "Michael Lehenbauer <michael@firebase.com>"
   ],
   "homepage": "http://www.firepad.io/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VLADOS776/firepad.git"
-  },
   "browser": {
     "jsdom": false
   },
